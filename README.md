@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/PopBugGenie1.2.png" alt="PopBugGenie logo" width="250"/>
+  <img src="assets/PopBugGenie.png" alt="PopBugGenie logo" width="250"/>
 </p>
 <h1 align="center">PopBugGenie</h1>
 <p align="center"><em>Unleashing the magic of microbial diversity</em></p>
