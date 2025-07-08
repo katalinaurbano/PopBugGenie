@@ -73,7 +73,7 @@ python PopBugGenie.py \
 | `--vcf`                | Path to the input multi-sample VCF file                                     |
 | `--output`             | Output directory for results                                                |
 | `--replace-missing`    | (Optional) Replace missing genotypes (`./.`) with `0/0`                     |
-| `--window`             | Sliding window size in base pairs (default: 50000)                          |
+| `--window`             | Non-overlapping genomic window size in base pairs (default: 50000)                          |
 | `--max_clusters`       | Max number of KMeans clusters for PCA inference (default: 8)                |
 | `--min_samples_per_pop`| Minimum samples per population to compute statistics (default: 3)           |
 
