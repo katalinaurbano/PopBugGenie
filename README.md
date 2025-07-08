@@ -1,5 +1,6 @@
 <p align="center">
   <img src="ruta/a/tu/logo.png" alt="PopBugGenie logo" width="180"/>
+  <img src="assets/PopBugGenie.png" alt="PopBugGenie logo" width="180"/>
 </p>
 
 <h1 align="center">🪄 PopBugGenie</h1>
