@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/PopBugGenie.png" alt="PopBugGenie logo" width="180"/>
+  <img src="assets/PopBugGenie2WL.png" alt="PopBugGenie logo" width="180"/>
 </p>
 
-<h1 align="center">🧬 PopBugGenie</h1>
+<h1 align="center">PopBugGenie</h1>
 <p align="center"><em>Unleashing the magic of microbial diversity</em></p>
 
 ---
